@@ -1,0 +1,17 @@
+body {
+    background: #d9d9e9;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1, h2, h3 {
+    text-align: center;
+}
+#imagen{
+    float: left;
+    width: 125px;
+}
+#texto{
+    padding-left: 5px;
+}
+span {
+    color: red;
+}
